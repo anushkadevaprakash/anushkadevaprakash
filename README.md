@@ -8,8 +8,6 @@
 
 <br>
 
-### `✰ Now transmitting in the water hole ✰`
-
 Hello, I am Anushka Devaprakash. I am an offensive security researcher. I started in web applications, decided I did not want to do just that, and moved to the RF attack surface of drones, satellites, and the networks and hardware they run on.
 
 <div align="center">
