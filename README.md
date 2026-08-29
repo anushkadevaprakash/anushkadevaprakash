@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ffd0e8&height=180&section=header&text=Anushka%20Devaprakash&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Researcher%20%C2%B7%20RF%20%C2%B7%20UAV%20%C2%B7%20Satellites&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ffd0e8&height=180&section=header&text=Anushka%20Devaprakash&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Researcher%20%C2%B7%20RF%20%C2%B7%20UAV%20%C2%B7%20Satellites&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF5FB0&center=true&vCenter=true&width=560&lines=Security+through+first+principles;Building+resilient+autonomy+for+aerospace;Ad+Astra+Per+Aspera" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=2800&pause=500&color=FF5FB0&center=true&vCenter=true&width=560&lines=Building+resilient+autonomy+for+aerospace;Ad+Astra+Per+Aspera" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-### `>>> Now transmitting in the water hole`
+### `✰ Now transmitting in the water hole ✰`
 
-Hello, I am Anushka Devaprakash. I am an offensive security researcher. I started in web applications, decided I did not want to do only that, and moved to the RF attack surface of drones, satellites, and the networks and hardware they run on.
+Hello, I am Anushka Devaprakash. I am an offensive security researcher. I started in web applications, decided I did not want to do just that, and moved to the RF attack surface of drones, satellites, and the networks and hardware they run on.
 
 <div align="center">
 
@@ -35,4 +35,4 @@ Hello, I am Anushka Devaprakash. I am an offensive security researcher. I starte
 <div align="center">
 
 73,<br>
-From 1420 MHz.
+From 1420 MHz
