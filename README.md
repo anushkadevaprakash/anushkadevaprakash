@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**anushkadevaprakash/anushkadevaprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ffd0e8&height=180&section=header&text=Anushka%20Devaprakash&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Researcher%20%C2%B7%20RF%20%C2%B7%20UAV%20%C2%B7%20Satellites&descAlignY=58&descSize=18" width="100%" />
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF5FB0&center=true&vCenter=true&width=560&lines=Security+through+first+principles;Building+resilient+autonomy+for+aerospace;Ad+Astra+Per+Aspera" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<br>
+
+### `>>> Now transmitting in the water hole`
+
+Hello, I am Anushka Devaprakash. I am an offensive security researcher. I started in web applications, decided I did not want to do only that, and moved to the RF attack surface of drones, satellites, and the networks and hardware they run on.
+
+<div align="center">
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/anushka.space-ff1493?style=for-the-badge\&logo=firefox\&logoColor=white)](https://anushka.space/)
+
+</div>
+
+<br>
+
+<div align="center">
+
+</div>
+
+<br>
+
+<div align="center">
+
+73,<br>
+From 1420 MHz.
