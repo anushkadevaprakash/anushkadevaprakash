@@ -8,7 +8,7 @@
 
 <br>
 
-Hello, I am Anushka Devaprakash. I am an offensive security researcher. I started in web applications, decided I did not want to do just that, and moved to the RF attack surface of drones, satellites, and the networks and hardware they run on.
+Testing the RF links, networks and hardware of drones and satellites. Building resilience for contested aerospace.
 
 <div align="center">
 
