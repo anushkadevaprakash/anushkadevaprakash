@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ffd0e8&height=180&section=header&text=Anushka%20Devaprakash&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aerospace%20Security%20Researcher%20%C2%B7%20RF%20%C2%B7%20Drones%20%C2%B7%20Satellites&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:ffd0e8&height=180&section=header&text=Anushka%20Devaprakash&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Founder%20of%20ADX%20Security%20%7C%20Aerospace%20Security%20Researcher&descAlignY=58&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=2800&pause=500&color=FF5FB0&center=true&vCenter=true&width=560&lines=CQ+CQ+CQ;Security+for+the+Sovereign+Sky;Ad+Astra+Per+Aspera" alt="Typing SVG" />
 
