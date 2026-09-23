@@ -8,10 +8,7 @@
 
 <br>
 
-
 Testing flying machines and researching resilience for contested aerospace.
-
-
 
 <div align="center">
 
